@@ -1,0 +1,28 @@
+# Core dependencies
+requests>=2.25.0
+typing-extensions>=4.0.0
+
+# LLM Providers (uncomment as needed)
+# OpenAI
+openai>=1.0.0
+
+# Anthropic
+# anthropic>=0.6.0
+
+# Hugging Face
+# transformers>=4.30.0
+# huggingface-hub>=0.15.0
+# torch>=2.0.0
+
+# Vector Database (uncomment as needed)
+# ChromaDB
+# chromadb>=0.4.0
+
+# Pinecone
+# pinecone-client>=2.2.0
+
+# Embedding models
+# sentence-transformers>=2.2.0
+
+# Web search
+# google-api-python-client>=2.0.0 
