@@ -1,7 +1,8 @@
-# ReaRAG
+
 
 <div align="center">
-
+<h1>ReaRAG</h1>
+  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Research-yellow)
@@ -9,8 +10,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/llmsresearch/rearag?style=social)
 
 **Knowledge-guided Reasoning with Iterative Retrieval Augmented Generation**
-
-[📄 Paper](https://arxiv.org/html/2503.21729v1) | [🤗 Hugging Face](#) | [💻 Open In Colab](#) | [🌐 Website](#)
 
 </div>
 
@@ -34,7 +33,7 @@
 ReaRAG is a factuality-enhanced reasoning model that combines strong reasoning capabilities with retrieval augmentation. It follows the Thought-Action-Observation paradigm:
 
 <div align="center">
-  <img src="https://arxiv.org/html/2503.21729v1/x2.png" alt="ReaRAG Workflow" width="60%"/>
+  <img src="https://arxiv.org/html/2503.21729v1/x1.png" alt="ReaRAG Workflow" width="60%"/>
 </div>
 
 1. **Thought** : The model generates reasoning steps
@@ -58,7 +57,7 @@ This implementation focuses on the algorithm and methodology proposed in the pap
 ## Architecture
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=ReaRAG+Architecture" alt="ReaRAG Architecture" width="800"/>
+  <img src="https://arxiv.org/html/2503.21729v1/x2.png" alt="ReaRAG Architecture" width="60%"/>
 </div>
 
 The implementation consists of these main components:
